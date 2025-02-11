@@ -12,11 +12,11 @@ Hiện nay, việc giám sát và dự báo số lượng key DRM được sử 
 
 # Conceptual Map
 
-![](./img/conceptualmap.drawio.png)
+![](./src/conceptualmap.drawio.png)
 
 ---
 # Data Model
-![](./img/Data_model.png)
+![](./src/Data_model.png)
 
 ---
 
